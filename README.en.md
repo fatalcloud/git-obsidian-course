@@ -45,4 +45,4 @@ This project is freely distributed. You can use the materials for learning.
 
 ## 👨‍💻 Author
 
-**fatalcloud**
+* GitHub: [fatalcloud](https://github.com/fatalcloud)
